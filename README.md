@@ -7,3 +7,6 @@ https://github.com/anumit-web/TensorFlow-Convolutional-Neural-Network-CNN--tutor
 Convolutional Neural Network (CNN)
 
 https://www.tensorflow.org/tutorials
+
+https://www.tensorflow.org/tutorials/images/cnn
+
