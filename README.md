@@ -12,3 +12,6 @@ Learn Convolutional Neural Network (CNN) using TensorFlow and Keras
 
 https://www.tensorflow.org/tutorials/images/cnn
 
+An Introduction to Convolutional Neural Networks (CNNs)
+
+https://www.datacamp.com/tutorial/introduction-to-convolutional-neural-networks-cnns
