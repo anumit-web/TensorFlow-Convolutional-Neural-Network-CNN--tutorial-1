@@ -8,5 +8,7 @@ Convolutional Neural Network (CNN)
 
 https://www.tensorflow.org/tutorials
 
+Learn Convolutional Neural Network (CNN) using TensorFlow and Keras
+
 https://www.tensorflow.org/tutorials/images/cnn
 
